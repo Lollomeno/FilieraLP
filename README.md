@@ -1,7 +1,7 @@
 # Progetto IDS 2024/2025
 
 ## Descrizione
-Questo progetto ha lo scopo di realizzare una **piattaforma digitale per la filiera agroalimentare**, in cui:
+Questo progetto ha lo scopo di realizzare una **piattaforma digitale per la filiera agricola**, in cui:
 - **Produttori, Trasformatori e Distributori** (raggruppati sotto l’attore generale *Venditore*) possono pubblicare e vendere prodotti.
 - Gli **Acquirenti** possono navigare il catalogo, acquistare prodotti o pacchetti e partecipare a eventi.
 - Gli **Animatori** organizzano eventi e gli utenti possono prenotarsi.
